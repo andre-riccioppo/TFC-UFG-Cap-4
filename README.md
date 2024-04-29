@@ -5,15 +5,10 @@
 Este trabalho é um entregável parte do processo de avaliação da disciplina de Tópicos Especiais em Fundamentos de Computação, do programa de pós-graduação do Instituto de Informática da Faculdade Federal de Goiás (INF/UFG). No relatório e video aula, disponíveis neste repositório, apresentamos os tópicos:
 
 * Determinante e Traço de matrizes
-
 * Autovalores e Autovalores
-
 * Decomposição de Cholesky
-
 * Decomposição de autovalores, autovetores e diagonalização
-
 * Decomposição de Valores Singulares (SVD)
-
 * Aproximação de matrizes
 
 ## Produções
