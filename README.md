@@ -1,2 +1,6 @@
-# TFC-UFG-Cap-4
-Este é um trabalho da disciplina de "Tópicos Especiais em Fundamentos de Computação – Matemática e Estatística para Ciência de Dados" ministrada pelo Prof. Dr. Rommel Melgaço Barbosa, no Programa de Pós-Graduação em Ciência da Computação, do Instituto de Informática, da Universidade Federal de Goiás, no semestre letivo 2024/1.
+Este trabalho apresenta conceitos de Geometria Analítica pra ML, contendo os seguintes documentos:
+
+Relatório: Arquivo em formato PDF contendo o relatório do trabalho.
+Videoaula: Apresentação dos principais conceitos de Geometria Analítica em um vídeo organizado em capítulos e disponível no YouTube pelo link https://youtu.be/???.
+Slides: Arquivo em formato PDF contendo contendo os slides utilizados na apresentação da videoaula.
+Livro-texto: Hiperlink para acessar a última edição do livro "Mathematics for Machine Learning", disponível de forma gratuita no endereço: https://mml-book.github.io/book/mml-book.pdf.
