@@ -1,5 +1,7 @@
 # Tópicos Especiais em Fundamentos de Computação: Decomposição de matrizes
 
+## Descrição
+
 Este trabalho é um entregável parte do processo de avaliação da disciplina de Tópicos Especiais em Fundamentos de Computação, do programa de pós-graduação do Instituto de Informática da Faculdade Federal de Goiás (INF/UFG). No relatório e video aula, disponíveis neste repositório, apresentamos os tópicos:
 
 * Determinante e Traço de matrizes
@@ -14,13 +16,15 @@ Este trabalho é um entregável parte do processo de avaliação da disciplina d
 
 * Aproximação de matrizes
 
+## Produções
+
 As produções deste trabalho são listadas abaixo:
 
 * **Relatório:** Arquivo em formato PDF contendo o relatório do trabalho.
 * **Videoaula:** Apresentação dos principais conceitos de Geometria Analítica em um vídeo organizado em capítulos e disponível no *YouTube* pelo link <<LINK>>.
 * **Slides:** Arquivo em formato PDF contendo contendo os slides utilizados na apresentação da videoaula.
 
-# Referências
+## Referências
 
 Para produção deste trabalho utilizamos os seguintes materiais como base:
 
