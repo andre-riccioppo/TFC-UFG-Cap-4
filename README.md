@@ -22,7 +22,7 @@ As produções deste trabalho são listadas abaixo:
 
 * **Relatório:** Arquivo em formato PDF contendo o relatório do trabalho.
 * **Videoaula:** Apresentação dos principais conceitos de Geometria Analítica em um vídeo organizado em capítulos e disponível no *YouTube* pelo link <<LINK>>.
-* **Slides:** Arquivo em formato PDF contendo contendo os slides utilizados na apresentação da videoaula.
+* **Slides:** Slides utilizados na apresentação ([aqui](slides.pdf)).
 
 ## Referências
 
