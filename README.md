@@ -15,8 +15,8 @@ Este trabalho é um entregável parte do processo de avaliação da disciplina d
 
 As produções deste trabalho são listadas abaixo:
 
-* **Relatório:** Arquivo em formato PDF contendo o relatório do trabalho.
-* **Videoaula:** Vídeo aula disponível com o conteúdo sobre decomposição de matrizes LINK.
+* **Relatório:** Arquivo em formato PDF contendo o relatório do trabalho ([aqui](relatorio.pdf)).
+* **Videoaula:** Vídeo aula disponível com o conteúdo sobre decomposição de matrizes ([aqui](https://www.youtube.com/watch?v=NwJzz4Eo4OM)).
 * **Material da apresentação:** Slides utilizados na apresentação ([aqui](slides.pdf)).
 
 ## Referências
